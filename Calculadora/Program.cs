@@ -65,8 +65,6 @@ namespace Calculadora
             }
 
             Console.ReadKey();
-
-            Console.ReadKey();
         }
     }
 }
